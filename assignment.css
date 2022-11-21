@@ -1,0 +1,46 @@
+.contact-form {
+  background:linear-gradient(60deg, #534666, #138086);
+  MARGIN-LEFT:3IN;
+	padding: 10px;
+	WIDTH:650PX;
+	HEIGHT:540PX;
+	border-bottom:5px solid black;
+	border-left:5px solid black;
+	border-top:5px solid black;
+	border-right:5px solid black;
+}
+body{
+  background-image:URL("bt1.jpg");	
+}
+.title2{
+	font-size:2.5rem;
+	text-align:center;
+	margin-top:0.2;
+}
+label{
+	font-size:1.3rem;
+}
+form {
+  padding: 1.4rem 2.2rem;
+  z-index: 10;
+  overflow: hidden;
+  position: relative;
+}
+.input-container {
+  position: relative;
+  margin: 1rem 0;
+}
+.input {
+  width: 27%;
+  border: 2px solid black;
+  padding: 0.6rem 1.2rem;
+  font-size: 0.90rem;
+  border-radius: 25px;
+}
+.input2{
+  width: 44%;
+  border: 2px solid black;
+  padding: 0.6rem 1.2rem;
+  font-size:0.95rem;
+  border-radius: 25px;
+}
